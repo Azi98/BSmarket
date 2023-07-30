@@ -111,5 +111,10 @@ window.addEventListener("DOMContentLoaded", function() {
             toggleOpenClass(menuWrapper);  
         })
     })
+
+    //nav bar active effects
+
+    const bigMenuWrapper = document.querySelector('.navbar-nav.mr-auto');
+
 });
 
