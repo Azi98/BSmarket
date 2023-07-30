@@ -290,6 +290,15 @@
         padding-bottom: 30px;
    }
 
+   .we_do.slin::before {
+    max-width: 300px;
+    left: 5%;
+   }
+
+   #about_id {
+    padding-top: 60px;
+   }
+
    .about_img {
     display: none;
    }
@@ -443,6 +452,11 @@
     #we_do_id {
         padding-top: 25px;
         padding-bottom: 30px;
+   }
+
+   .we_do.slin::before {
+    max-width: 150px;
+    left: 5%;
    }
 
    #about_id {
